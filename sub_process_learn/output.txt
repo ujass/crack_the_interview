@@ -1,0 +1,5 @@
+total 12
+drwxrwxr-x 2 meditab meditab 4096 Jun 24 18:27 .
+drwxrwxr-x 8 meditab meditab 4096 Jun 24 18:03 ..
+-rw-rw-r-- 1 meditab meditab 1366 Jun 24 18:27 concept.py
+-rw-rw-r-- 1 meditab meditab    0 Jun 24 18:27 output.txt
